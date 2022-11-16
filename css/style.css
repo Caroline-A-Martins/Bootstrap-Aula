@@ -1,0 +1,41 @@
+
+.navbar {
+    background-color: #778a35;
+    
+} 
+
+.logo-marca{
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.quem-somos{
+    background-color: #EBEBE8;
+    color: #294905;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.parceiros{
+    background-color: #D1E2C4;
+    color: #294905;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.serviços {
+    background-color: #31352E;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.margin{
+    padding: 20px 0px;
+}
+
